@@ -1,4 +1,4 @@
-# Lab 8: Radix Sort
+# Radix Sort
 
 ## Objective
 You are to implement a program to take in a list of words from a file, sort them using radix sort, and output them in alphabetical order. You will need at least one class to implement the following program: write a short console program that will take in the name of a file containing the words to be sorted (i.e. file_name.txt). You can assume the file will contain several words, one word per line, mixed letter case, and with no additional spaces before or after the words. Your program will then write these words sorted in alphabetical order (not lexicographical order) into a file named the file name followed by “\_key” (i.e. file_name_key.txt) after sorting them using radix sort.
