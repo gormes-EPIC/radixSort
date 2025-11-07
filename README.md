@@ -17,7 +17,3 @@ Example:
 For your main class, create Javadoc comments and generate a Javadoc HTML reference. 
 ## Testing
 Create JUnit tests with **85% code coverage.** Though there is not a specific requirement, you will need to write multiple sets of wordlist files and a way to compare the validate the outputted lists. I recommend you create a testing directory in your project to hold all of these files. You can mark a directory as your testing suite inside the project settings.
-## Rubric
-4 points – All requested items are present. Functional and efficient radix sort class as described above. Javadoc reference for the class. JUnit tests with a coverage report of at least 85%.
-3 points – Some of the requested items are missing. Classes are complete but are missing Javadoc reference. Test cases are missing or incomplete.
-2 points – Missing or incomplete. Student should re-attempt
